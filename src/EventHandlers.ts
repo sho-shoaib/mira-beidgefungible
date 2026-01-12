@@ -31,6 +31,7 @@ import {
 
 } from "generated";
 
+
 import * as util from 'util';
 
 BridgeFungibleToken.SetMetadataEvent.handler(async ({ event, context }) => {
